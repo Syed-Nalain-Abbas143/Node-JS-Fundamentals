@@ -1,0 +1,19 @@
+{
+  "name": "node-learning",
+  "version": "1.0.0",
+  "description": "Practicing Node js for backend development",
+  "keywords": [
+    "NodeJS",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Syed Nalain Abbas",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "figlet": "^1.11.4"
+  }
+}
